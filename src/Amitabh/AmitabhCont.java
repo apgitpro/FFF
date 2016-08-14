@@ -10,5 +10,6 @@ package Amitabh;
  * @author Administrator
  */
 public class AmitabhCont {
+    System.out.println("Hello world!");
     
 }
